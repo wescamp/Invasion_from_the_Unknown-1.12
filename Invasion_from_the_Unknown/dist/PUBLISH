@@ -1,9 +1,0 @@
-# "Invasion from the Unknown" package automatically generated on 2011-11-19 - 21:35:28 (UTC)
-# running /home/espreon/wesnoth-umc-dev/branches/maintenance-toolchain/build-external-archive.sh under GNU/Linux 3.0.0-sabayon x86_64 by espreon@weavel
-
-# version 1.90.6
-# archive tar
-# comp bzip2
-# generator espreon@weavel
-
-# command line: "/home/espreon/wesnoth-umc-dev/branches/maintenance-toolchain/build-external-archive.sh -x 1.90.4 Invasion_from_the_Unknown ."
