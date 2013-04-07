@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Invasion_from_the_Unknown-1.12\n"
+"Project-Id-Version: Invasion_from_the_Unknown-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-10 00:49-0500\n"
-"PO-Revision-Date: 2012-09-28 02:11+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2009-11-03 19:56+0100\n"
+"Last-Translator: l <l@l.nl>\n"
 "Language-Team: none\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/13x_Inter.cfg:5
 #: Invasion_from_the_Unknown/scenarios/13x_Inter.cfg:103
 msgid "Invasion from the Unknown"
-msgstr ""
+msgstr "Invasie van het Onbekende"
 
 #: Invasion_from_the_Unknown/_main.cfg:51
 msgid "(Expert level, 13 scenarios.)"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/_main.cfg:52
 msgid "Version:"
-msgstr ""
+msgstr "Versie:"
 
 #: Invasion_from_the_Unknown/_main.cfg:52
 msgid "(requires Wesnoth 1.9.10 or later)"
@@ -50,13 +50,14 @@ msgstr ""
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:58
+#, fuzzy
 msgid "Episode I: Seeking the Light"
-msgstr ""
+msgstr "Op zoek naar het licht"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:61
 msgid "IftU-1"
-msgstr ""
+msgstr "IftU-1"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:64
@@ -106,13 +107,14 @@ msgstr ""
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:67
+#, fuzzy
 msgid "Episode II: Armageddon"
-msgstr ""
+msgstr "Hoofdstuk 2:"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:70
 msgid "IftU-2"
-msgstr ""
+msgstr "IftU-2"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:13
@@ -142,7 +144,7 @@ msgstr ""
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:232
 msgid "Translations"
-msgstr ""
+msgstr "Vertalingen"
 
 #. [entry]
 #: Invasion_from_the_Unknown/about.cfg:234
@@ -202,30 +204,33 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/base-utils.cfg:87
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:501
+#, fuzzy
 msgid "Crystal Glyph"
-msgstr ""
+msgstr "Kristallen Glyphe"
 
 #. [message]: speaker=narrator
 #. [side]: type=Master of Darkness, id=Shadow Master
 #: Invasion_from_the_Unknown/base-utils.cfg:95
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/sides.cfg:10
 msgid "Shadow Master"
-msgstr ""
+msgstr "Schaduwmeester"
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/base-utils.cfg:104
+#, fuzzy
 msgid "Looming Voice Coming from Everywhere"
-msgstr ""
+msgstr "Dreigende stem, overal vandaan komend"
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/base-utils.cfg:113
 msgid "Voice of Uria"
-msgstr ""
+msgstr "Stem van Uria"
 
 #. [editor_group]: id=wesnoth-UMC-Invasion_from_the_Unknown
 #: Invasion_from_the_Unknown/editor-loader.cfg:25
+#, fuzzy
 msgid "Invasion from the Unknown (custom terrains)"
-msgstr ""
+msgstr "Invasie van het onbekende (zelfgemaakte terreinen)"
 
 #: Invasion_from_the_Unknown/macros/abilities.cfg:10
 msgid ""
@@ -357,11 +362,11 @@ msgstr ""
 #. [print]
 #: Invasion_from_the_Unknown/macros/boss-utils.cfg:27
 msgid "Enemy boss sighted!"
-msgstr ""
+msgstr "Vijandige baas zichtbaar!"
 
 #: Invasion_from_the_Unknown/macros/boss-utils.cfg:135
 msgid "Defeat the enemy boss"
-msgstr ""
+msgstr "Versla de vijandige baas"
 
 #: Invasion_from_the_Unknown/macros/boss-utils.cfg:140
 msgid ""
@@ -2533,8 +2538,9 @@ msgstr ""
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:227
+#, fuzzy
 msgid "Defeat all enemy leaders (Heroic bonus)"
-msgstr ""
+msgstr "Versla de vijandige baas"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:229
@@ -2918,7 +2924,7 @@ msgstr ""
 #. [message]: speaker=Anlindë
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:692
 msgid "Galas? Galas, no!"
-msgstr ""
+msgstr "Galas? Galas, nee!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:697
@@ -3057,8 +3063,9 @@ msgstr ""
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:251
+#, fuzzy
 msgid "Find the undead enemy leader"
-msgstr ""
+msgstr "Versla de vijandige baas"
 
 #. [message]: speaker=second_unit
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:271
@@ -3109,8 +3116,9 @@ msgstr ""
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:306
+#, fuzzy
 msgid "Defeat Mal Keshar"
-msgstr ""
+msgstr "Versla de vijandige baas"
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:391
@@ -5729,7 +5737,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:760
 msgid "Looming Voice coming from Everywhere"
-msgstr ""
+msgstr "Dreigende stem, overal vandaan komend"
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:761
@@ -8110,8 +8118,9 @@ msgstr ""
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:305
 #: Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:558
+#, fuzzy
 msgid "Defeat all enemy leaders (Bonus)"
-msgstr ""
+msgstr "Versla de vijandige baas"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:307
@@ -8700,8 +8709,9 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:841
+#, fuzzy
 msgid "Ahh! How dare you..."
-msgstr ""
+msgstr "Wie ben jij?"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:853
@@ -9567,7 +9577,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/14xB_The_Aragwaithi.cfg:42
 #: Invasion_from_the_Unknown/scenarios/14xB_The_Aragwaithi.cfg:305
 msgid "Erathan"
-msgstr ""
+msgstr "Erathan"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:529
@@ -10023,7 +10033,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/14xA_The_Aragwaithi.cfg:4
 #: Invasion_from_the_Unknown/scenarios/14xB_The_Aragwaithi.cfg:4
 msgid "The Aragwaithi"
-msgstr ""
+msgstr "De Aragwaithi"
 
 #. [side]: type=Aragwaith Ancient Banner, id=De'Arthian
 #: Invasion_from_the_Unknown/scenarios/14xA_The_Aragwaithi.cfg:32
@@ -10160,7 +10170,7 @@ msgstr ""
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/14xA_The_Aragwaithi.cfg:218
 msgid "I understand."
-msgstr ""
+msgstr "Ik begrijp het."
 
 #. [message]: speaker=Emalor
 #: Invasion_from_the_Unknown/scenarios/14xA_The_Aragwaithi.cfg:226
@@ -10914,7 +10924,7 @@ msgstr ""
 #. [side]: type=Goliath, id=ZA-K314
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:81
 msgid "ZA-K314"
-msgstr ""
+msgstr "ZA-K314"
 
 #. [side]: type=Hell Overlord, id=Benthos
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:105
@@ -11020,8 +11030,9 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:288
+#, fuzzy
 msgid "Déjà vu."
-msgstr ""
+msgstr "Déja vu."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:296
@@ -11095,7 +11106,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:366
 msgid "No!"
-msgstr ""
+msgstr "Nee!"
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:370
@@ -11124,7 +11135,7 @@ msgstr ""
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:408
 msgid "Ha!"
-msgstr ""
+msgstr "Hah!"
 
 #. [message]: speaker=Igor
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:417
@@ -11149,7 +11160,7 @@ msgstr ""
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:448
 msgid "Die, you bastard!"
-msgstr ""
+msgstr "Sterf, bastaard!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:459
@@ -11269,7 +11280,7 @@ msgstr ""
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:546
 msgid "Erathan?"
-msgstr ""
+msgstr "Erathan?"
 
 #. [message]: speaker=Erathan
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:550
@@ -11381,7 +11392,7 @@ msgstr ""
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/16x_Council_of_Destiny.cfg:188
 msgid "Malin..."
-msgstr ""
+msgstr "Malin..."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/16x_Council_of_Destiny.cfg:192
@@ -11728,8 +11739,9 @@ msgstr ""
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:142
+#, fuzzy
 msgid "Defeat all your opponents"
-msgstr ""
+msgstr "Versla de vijandige baas"
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:157
@@ -12225,7 +12237,7 @@ msgstr ""
 #. the 'translated' bat messages should sound clumsy in any language, as if it were a Troll speaking for the bat.
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:5
 msgid "Under the Sands"
-msgstr ""
+msgstr "Onder het Zand"
 
 #. [side]: type=Chaos Razerman, id=Renan
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:49
@@ -12625,7 +12637,7 @@ msgstr ""
 #. [scenario]: id=20x_Interlude
 #: Invasion_from_the_Unknown/scenarios/20x_The_Plot.cfg:4
 msgid "The Plot"
-msgstr ""
+msgstr "Het verhaal"
 
 #. [message]: speaker=Althurin
 #: Invasion_from_the_Unknown/scenarios/20x_The_Plot.cfg:94
@@ -13087,7 +13099,7 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:741
 msgid "Garg"
-msgstr ""
+msgstr "Garg"
 
 #. [message]: speaker=Garg
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:756
@@ -13533,7 +13545,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/22B_Face_of_the_Enemy.cfg:1029
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:163
 msgid "Elyssa"
-msgstr ""
+msgstr "Elyssa"
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/22B_Face_of_the_Enemy.cfg:647
@@ -14122,13 +14134,15 @@ msgstr ""
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1138
+#, fuzzy
 msgid "So you have. Who are you?"
-msgstr ""
+msgstr "Wie ben jij?"
 
 #. [message]: speaker=Elyssa
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1143
+#, fuzzy
 msgid "Why would I tell you?"
-msgstr ""
+msgstr "Wie ben jij?"
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1148
@@ -14190,7 +14204,7 @@ msgstr ""
 #. [message]: speaker=Elyssa
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1209
 msgid "See those gates?"
-msgstr ""
+msgstr "Zie je deze poorten?"
 
 #. [message]: speaker=Elyssa
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1223
@@ -14235,7 +14249,7 @@ msgstr ""
 #. [scenario]: id=23A_Frozen_Hell
 #: Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:5
 msgid "The Frozen Hell"
-msgstr ""
+msgstr "De Bevroren Hel"
 
 #. [side]
 #. [side]: id=Yradella, type=Demon Zephyr
@@ -14270,8 +14284,9 @@ msgstr ""
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:304
+#, fuzzy
 msgid "So this is Inferno... It is rather cold..."
-msgstr ""
+msgstr "Dus dit is Inferno... Het is hier nogal koud..."
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:309
@@ -14327,7 +14342,7 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:153
 msgid "Mwaaahahahahahaha!"
-msgstr ""
+msgstr "Muhahahahaha!!!!!!"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:160
@@ -14339,7 +14354,7 @@ msgstr ""
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:170
 msgid "Nothing."
-msgstr ""
+msgstr "Niets."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:208
@@ -14545,8 +14560,9 @@ msgstr ""
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:61
+#, fuzzy
 msgid "Kill the Chimera"
-msgstr ""
+msgstr "Chimera"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:81
@@ -14556,7 +14572,7 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:95
 msgid "Look!"
-msgstr ""
+msgstr "Kijk!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:103
@@ -14736,7 +14752,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/23By_Broken_Heart.cfg:5
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:5
 msgid "Broken Heart"
-msgstr ""
+msgstr "Gebroken Hart"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/23By_Broken_Heart.cfg:82
@@ -14969,7 +14985,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/23Cx_Finale.cfg:4
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Epiloog"
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:93
@@ -15003,7 +15019,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:113
 msgid "So?"
-msgstr ""
+msgstr "Dus?"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:118
@@ -15301,7 +15317,7 @@ msgstr ""
 #. [unit]: id=Death Knight
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:412
 msgid "Death Knight"
-msgstr ""
+msgstr "Doodsridder"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:434
@@ -15835,7 +15851,7 @@ msgstr ""
 #. [unit_type]: id=Demon, race=demon
 #: Invasion_from_the_Unknown/units/demons/Regular.cfg:5
 msgid "Demon"
-msgstr ""
+msgstr "Demon"
 
 #. [unit_type]: id=Demon, race=demon
 #: Invasion_from_the_Unknown/units/demons/Regular.cfg:22
@@ -15966,7 +15982,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:38
 #: Invasion_from_the_Unknown/units/dwarves/Steamcopter.cfg:38
 msgid "bombs"
-msgstr ""
+msgstr "bommen"
 
 #. [unit_type]: id=Dwarvish Steamcopter, race=dwarf
 #: Invasion_from_the_Unknown/units/dwarves/Steamcopter.cfg:5
@@ -16410,7 +16426,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/goblins-steppe/Hunter.cfg:33
 #: Invasion_from_the_Unknown/units/goblins-steppe/Striker.cfg:39
 msgid "harpoon"
-msgstr ""
+msgstr "harpoen"
 
 #. [unit_type]: id=Steppe Hunter, race=goblin
 #: Invasion_from_the_Unknown/units/goblins-steppe/Hunter.cfg:5
@@ -16608,12 +16624,13 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Lancer, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Lancer.cfg:5
 msgid "Lancer"
-msgstr ""
+msgstr "Lansenier"
 
 #. [female]
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Lancer.cfg:172
+#, fuzzy
 msgid "female^Lancer"
-msgstr ""
+msgstr "Lansenier"
 
 #. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Longswordsman.cfg:5
@@ -16633,12 +16650,12 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Pikeman, race=aragwaith, description=
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Pikeman.cfg:5
 msgid "Pikeman"
-msgstr ""
+msgstr "Piekenier"
 
 #. [unit_type]: id=Aragwaith Scout, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Scout.cfg:5
 msgid "Scout"
-msgstr ""
+msgstr "Verkenner"
 
 #. [female]
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Scout.cfg:67
@@ -16648,7 +16665,7 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Shield_Guard.cfg:5
 msgid "Shield Guard"
-msgstr ""
+msgstr "Schildwacht"
 
 #. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Shield_Guard.cfg:28
@@ -16705,7 +16722,7 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Spearman.cfg:5
 msgid "Spearman"
-msgstr ""
+msgstr "Speerman"
 
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Spearman.cfg:19
@@ -16733,7 +16750,7 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Swordsman.cfg:5
 msgid "Swordsman"
-msgstr ""
+msgstr "Zwaardvechter"
 
 #. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Swordsman.cfg:19
@@ -16746,8 +16763,9 @@ msgstr ""
 
 #. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Swordsmaster.cfg:5
+#, fuzzy
 msgid "Swordsmaster"
-msgstr ""
+msgstr "Zwaardmeester"
 
 #. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Swordsmaster.cfg:20
@@ -16903,7 +16921,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Chaos_Doom_Guard.cfg:35
 #: Invasion_from_the_Unknown/units/humans/Chaos_Hell_Guardian.cfg:36
 msgid "shield"
-msgstr ""
+msgstr "schild"
 
 #. [unit_type]: id=Chaos Headhunter, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Headhunter.cfg:5
@@ -17042,12 +17060,12 @@ msgstr ""
 #. [unit_type]: id=Chaos Longbowman, race=human, description=
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman.cfg:5
 msgid "Chaos Longbowman"
-msgstr ""
+msgstr "Chaos Langboogschutter"
 
 #. [unit_type]: id=Chaos Heavy Longbowman, race=human, description=
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman_Heavy.cfg:5
 msgid "Heavy Longbowman"
-msgstr ""
+msgstr "Zware Langboogschutter"
 
 #. [unit_type]: id=Chaos Marauder, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Marauder.cfg:5
@@ -17283,8 +17301,9 @@ msgstr ""
 #. [attack]: type=impact
 #: Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:53
 #: Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:50
+#, fuzzy
 msgid "flash cannon"
-msgstr ""
+msgstr "dubbel laserkanon"
 
 #. [unit_type]: id=Iron Golem, race=mechanical
 #: Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:5
@@ -17324,7 +17343,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:41
 #: Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:50
 msgid "dual laser cannon"
-msgstr ""
+msgstr "dubbel laserkanon"
 
 #. [unit_type]: id=Worker Droid, race=mechanical
 #: Invasion_from_the_Unknown/units/mechanical/Worker_Droid.cfg:5
@@ -17343,7 +17362,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Invasion_from_the_Unknown/units/mechanical/Worker_Droid.cfg:43
 msgid "oil"
-msgstr ""
+msgstr "olie"
 
 #. [unit_type]: id=Abomination, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Abomination.cfg:5
@@ -17361,7 +17380,7 @@ msgstr ""
 #. [unit_type]: id=Chimera, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Chimera.cfg:5
 msgid "Chimera"
-msgstr ""
+msgstr "Chimera"
 
 #. [unit_type]: id=Chimera, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Chimera.cfg:19
@@ -17381,7 +17400,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/monsters/Cockatrice.cfg:37
 #: Invasion_from_the_Unknown/units/monsters/Eyestalk.cfg:64
 msgid "gaze"
-msgstr ""
+msgstr "staar"
 
 #. [unit_type]: id=Cockatrice, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Cockatrice.cfg:5
@@ -17476,7 +17495,7 @@ msgstr ""
 #. [unit_type]: id=Demonic Hound, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Hound_Demonic.cfg:5
 msgid "Demonic Hound"
-msgstr ""
+msgstr "Demonische Hond"
 
 #. [unit_type]: id=Demonic Hound, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Hound_Demonic.cfg:25
@@ -18038,7 +18057,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:5
 #: Invasion_from_the_Unknown/units/shaxthal/Dead_Shadow_Master.cfg:6
 msgid "Master of Darkness"
-msgstr ""
+msgstr "Meester der Duisternis"
 
 #. [unit_type]: id=Master of Darkness, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:29
@@ -18115,8 +18134,9 @@ msgstr ""
 #. [unit_type]: id=Shaxthal Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone.cfg:5
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_E2.cfg:13
+#, fuzzy
 msgid "Drone"
-msgstr ""
+msgstr "Dar"
 
 #. [unit_type]: id=Shaxthal Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone.cfg:28
@@ -18130,8 +18150,9 @@ msgstr ""
 
 #. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_Assault.cfg:5
+#, fuzzy
 msgid "Assault Drone"
-msgstr ""
+msgstr "Aanvalsdar"
 
 #. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_Assault.cfg:19
@@ -18164,8 +18185,9 @@ msgstr ""
 
 #. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_Protector.cfg:5
+#, fuzzy
 msgid "Protector Drone"
-msgstr ""
+msgstr "Beshermerdar"
 
 #. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_Protector.cfg:19
@@ -18179,8 +18201,9 @@ msgstr ""
 
 #. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_Runner.cfg:5
+#, fuzzy
 msgid "Runner Drone"
-msgstr ""
+msgstr "Rennerdar"
 
 #. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_Runner.cfg:19
@@ -18199,8 +18222,9 @@ msgstr ""
 
 #. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_Sentry.cfg:5
+#, fuzzy
 msgid "Sentry Drone"
-msgstr ""
+msgstr "Wachtersdar"
 
 #. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Drone_Sentry.cfg:28
@@ -18260,7 +18284,7 @@ msgstr ""
 #. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Thunderbird.cfg:5
 msgid "Thunderbird"
-msgstr ""
+msgstr "Dondervogel"
 
 #. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Thunderbird.cfg:19
@@ -18275,7 +18299,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Invasion_from_the_Unknown/units/shaxthal/Thunderbird.cfg:52
 msgid "thunderbolt"
-msgstr ""
+msgstr "bliksenschicht"
 
 #. [unit_type]: id=Shaxthal Worm, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Worm.cfg:5
@@ -18440,7 +18464,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
 #: Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Ancestor.cfg:5
 msgid "Ancestor"
-msgstr ""
+msgstr "Voorvader"
 
 #. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
 #: Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Ancestor.cfg:29
@@ -18540,7 +18564,7 @@ msgstr ""
 #. [unit_type]: id=Death Baron, race=undead
 #: Invasion_from_the_Unknown/units/undead/Skele_Death_Baron.cfg:5
 msgid "Death Baron"
-msgstr ""
+msgstr "Doodsbaron"
 
 #. [unit_type]: id=Death Baron, race=undead
 #: Invasion_from_the_Unknown/units/undead/Skele_Death_Baron.cfg:39
@@ -18555,7 +18579,7 @@ msgstr ""
 #. [unit_type]: id=Bone Knight, race=undead
 #: Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:5
 msgid "Bone Knight"
-msgstr ""
+msgstr "Skeletridder"
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:26
@@ -18577,7 +18601,7 @@ msgstr ""
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: Invasion_from_the_Unknown/units/undead/Skeleton_Rider.cfg:5
 msgid "Skeleton Rider"
-msgstr ""
+msgstr "Skeletrijder"
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: Invasion_from_the_Unknown/units/undead/Skeleton_Rider.cfg:26
@@ -18590,3 +18614,46 @@ msgid ""
 "destruction. Novice fighters should have no problem fighting these, but need "
 "remember the speed of the skeletal mounts."
 msgstr ""
+
+#~ msgid "bow"
+#~ msgstr "boog"
+
+#~ msgid "Sorcerer"
+#~ msgstr "Tovenaar"
+
+#, fuzzy
+#~ msgid "Wizard"
+#~ msgstr "Magiër"
+
+#~ msgid "short sword"
+#~ msgstr "kort zwaard"
+
+#~ msgid "sword"
+#~ msgstr "zwaard"
+
+#~ msgid "torpedo"
+#~ msgstr "torpedo"
+
+#~ msgid "flail"
+#~ msgstr "vlegel"
+
+#~ msgid "Cyan"
+#~ msgstr "Grijs"
+
+#~ msgid "Yellow"
+#~ msgstr "Geel"
+
+#~ msgid "Pink"
+#~ msgstr "Roze"
+
+#~ msgid "Sound effects"
+#~ msgstr "Geluidseffecten"
+
+#~ msgid "Sand Troll"
+#~ msgstr "Zandtrol"
+
+#~ msgid "Sand Troll Whelp"
+#~ msgstr "Zandtrolwelp"
+
+#~ msgid "Episode I:"
+#~ msgstr "Hoofdstuk 1:"
