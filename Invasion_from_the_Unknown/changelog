@@ -2,8 +2,18 @@
 INVASION FROM THE UNKNOWN - CHANGELOG
 =====================================
 
+Version 1.90.7.1:
+-----------------
+
+- General:
+  - Non-versioned upload to the Wesnoth 1.11.x add-ons server.
+
+- User interface:
+  - Made sure cutscene theme with menu bar works on Wesnoth 1.11.5 and later.
+
+
 Version 1.90.7:
--------------------
+---------------
 
 - Increased minimum Wesnoth version requirement from 1.9.6 to 1.9.10; dropped
   support for 1.9.9 and earlier.
